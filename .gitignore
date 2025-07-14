@@ -1,0 +1,3 @@
+# nutri-web-app/.gitignore
+node_modules/
+backend/.env # ¡Ignora este archivo crucial!
